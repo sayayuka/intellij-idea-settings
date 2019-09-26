@@ -1,0 +1,12 @@
+<templateSet group="Custom Templates">
+  <template name="tcf" value="try {&#10;&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;} finally {&#10;&#10;}" description="Try-Catch-Finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;&#10;}" description="main method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
