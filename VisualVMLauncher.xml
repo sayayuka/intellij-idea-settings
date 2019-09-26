@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="$USER_HOME$/sf_tools/sapjvm_8" />
+    <option name="visualVmExecutable" value="$USER_HOME$/Open-Source/visualvm/bin/visualvm" />
+  </component>
+</application>
