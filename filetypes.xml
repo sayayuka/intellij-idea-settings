@@ -8,6 +8,7 @@
       <mapping pattern=".moduleinfo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dml" type="PLAIN_TEXT" />
+      <mapping ext="addons" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="provides" type="PLAIN_TEXT" />
