@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="NGDBCTest" type="JAVA" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CORuleDetailQueryTest" type="PLAIN_TEXT" />
       <mapping pattern=".moduleinfo" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dml" type="PLAIN_TEXT" />
       <mapping ext="addons" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
