@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="NGDBCTest" type="JAVA" />
       <mapping pattern=".moduleinfo" type="PLAIN_TEXT" />
+      <mapping pattern="env2json" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CORuleDetailQueryTest" type="PLAIN_TEXT" />
       <mapping ext="provides" type="PLAIN_TEXT" />
