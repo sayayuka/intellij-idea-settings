@@ -3,7 +3,7 @@
     <property name="created">2020-03-23T14:53:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-03-23T15:09:48</property>
+    <property name="modified">2020-03-23T16:24:47</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -970,6 +970,11 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff79c6" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="8f9aa8" />
       </value>
     </option>
     <option name="JS.EXPORTED.VARIABLE">
