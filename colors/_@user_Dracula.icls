@@ -3,7 +3,7 @@
     <property name="created">2020-03-23T14:53:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-03-23T16:24:47</property>
+    <property name="modified">2020-03-23T17:58:24</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -1729,7 +1729,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79cbdc" />
+        <option name="FOREGROUND" value="ae6f65" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
