@@ -3,7 +3,7 @@
     <property name="created">2020-03-23T14:53:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-03-23T17:58:24</property>
+    <property name="modified">2020-03-27T11:09:18</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -948,6 +948,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="242632" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffc6b0" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
