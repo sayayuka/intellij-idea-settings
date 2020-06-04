@@ -12,6 +12,7 @@
       <mapping ext="propertyies" type="PLAIN_TEXT" />
       <mapping ext="addons" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
