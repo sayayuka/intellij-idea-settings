@@ -8,6 +8,9 @@
   <action id="ActivateHierarchyToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -55,6 +58,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -69,5 +75,8 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
 </keymap>
