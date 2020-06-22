@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="NGDBCTest" type="JAVA" />
+      <mapping pattern="README.md" type="Markdown" />
       <mapping pattern=".moduleinfo" type="PLAIN_TEXT" />
       <mapping pattern="env2json" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
