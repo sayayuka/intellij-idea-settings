@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="NGDBCTest" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="README.md" type="Markdown" />
       <mapping pattern=".moduleinfo" type="PLAIN_TEXT" />
       <mapping pattern="env2json" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CORuleDetailQueryTest" type="PLAIN_TEXT" />
-      <mapping ext="provides" type="PLAIN_TEXT" />
       <mapping ext="dml" type="PLAIN_TEXT" />
-      <mapping ext="script" type="PLAIN_TEXT" />
-      <mapping ext="propertyies" type="PLAIN_TEXT" />
       <mapping ext="addons" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="provides" type="PLAIN_TEXT" />
+      <mapping ext="propertyies" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
