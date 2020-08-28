@@ -13,6 +13,7 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="java:S3457" />
       <Rule active="false" key="java:S2629" />
     </rules>
   </component>
