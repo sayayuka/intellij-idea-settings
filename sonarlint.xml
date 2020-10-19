@@ -1,20 +1,20 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp/" />
+          <token>dfcedf99df9ddf9bdfc8df9adf98df9fdf92dfcedfc8dfc9df9edf9cdf93df93df93df93dfcfdfc9dfcbdfc9df92dfcedf93dfcfdf9ddf98df9bdf9fdf9ddf98df93df99df9adf93df99dfcbdf99df93</token>
           <option name="name" value="SF Sonarqube Server Connection" />
-          <option name="login" value="I312313" />
-          <password>dfcbdfdddfd9df84dfc9dfc6dfc5dfdfdfcedf9adf9b</password>
           <organizationKey>default-organization</organizationKey>
           <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
     <rules>
-      <Rule active="false" key="java:S3457" />
       <Rule active="false" key="java:S2629" />
+      <Rule active="false" key="java:S3457" />
     </rules>
   </component>
 </application>
