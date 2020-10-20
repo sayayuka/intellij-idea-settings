@@ -1,5 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*{!.java}" />
+      </list>
+    </option>
     <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
