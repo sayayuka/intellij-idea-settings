@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="sayayuka" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.tools.sap" />
+          <option name="userName" value="i312313" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
