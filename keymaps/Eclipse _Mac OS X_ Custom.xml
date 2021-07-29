@@ -39,6 +39,9 @@
   </action>
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
