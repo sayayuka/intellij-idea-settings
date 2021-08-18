@@ -24,6 +24,9 @@
   <action id="ActivateTerminalToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="ChangesView.Move" />
+  <action id="CheckForUpdate">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="EditorLookupDown" />
