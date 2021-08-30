@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/BizX/mcap-api-service" />
+        <option value="$USER_HOME$/BizX/cloud-native-bootcamp" />
       </list>
     </option>
   </component>
