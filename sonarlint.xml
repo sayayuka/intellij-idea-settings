@@ -5,15 +5,13 @@
         <option value="**/*{!.java}" />
       </list>
     </option>
-    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp/" />
-          <token>dfcedf99df9ddf9bdfc8df9adf98df9fdf92dfcedfc8dfc9df9edf9cdf93df93df93df93dfcfdfc9dfcbdfc9df92dfcedf93dfcfdf9ddf98df9bdf9fdf9ddf98df93df99df9adf93df99dfcbdf99df93</token>
+          <option name="hostUrl" value="https://sonar.wdf.sap.corp/" />
+          <token>dfc8df92dfcbdfcbdf9adf9cdf9adf9adfcbdfcbdfcedfcfdf93dfc9df9ddf99df9cdfccdf9cdfc8df9ddfc9dfcbdf9adf9ddf98df92df9adfccdf93df93dfc8df9fdf9cdf9adf9adf9bdfcedfc8df99</token>
           <option name="name" value="SF Sonarqube Server Connection" />
           <organizationKey>default-organization</organizationKey>
-          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
