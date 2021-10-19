@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/BizX/mcap-api-service" />
         <option value="$USER_HOME$/BizX/cloud-native-bootcamp" />
+        <option value="$USER_HOME$/BizX" />
       </list>
     </option>
   </component>
