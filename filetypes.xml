@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="env2json" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="provides" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
