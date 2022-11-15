@@ -5,11 +5,25 @@
         <option value="**/*{!.java}" />
       </list>
     </option>
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S2629">
+          <value>
+            <Rule active="false" key="java:S2629" />
+          </value>
+        </entry>
+        <entry key="java:S3457">
+          <value>
+            <Rule active="false" key="java:S3457" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonar.wdf.sap.corp/" />
-          <token>dfc8df92dfcbdfcbdf9adf9cdf9adf9adfcbdfcbdfcedfcfdf93dfc9df9ddf99df9cdfccdf9cdfc8df9ddfc9dfcbdf9adf9ddf98df92df9adfccdf93df93dfc8df9fdf9cdf9adf9adf9bdfcedfc8df99</token>
+          <option name="hostUrl" value="https://sonar.tools.sap/" />
+          <token>dfd9dfdbdfdfdff5df9cdfc9dfc8df9adf98dfccdf92dfc8df93df9fdf9adf99df9edfc8df9bdf9cdf93df9fdfcedf92df9edfccdf9edfc9df9fdf9bdf99df9cdf98dfcedfccdf9edfcedfcfdfc9dfcedf93df9bdfccdfc8</token>
           <option name="name" value="SF Sonarqube Server Connection" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
