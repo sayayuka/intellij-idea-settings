@@ -1,0 +1,13 @@
+<application>
+  <component name="ApplicationConfig">
+    <option name="instanceType" value="ENTERPRISE" />
+    <option name="url" value="https://code.saf-service.sap.corp/" />
+    <option name="accessToken" value="" />
+    <option name="customRequestHeaders" value="" />
+    <option name="defaultBranch" value="main" />
+    <option name="remoteUrlReplacements" value="" />
+    <option name="anonymousUserId" value="74bd5afc-2231-427a-a0b4-b0ebe3eb1750" />
+    <option name="authenticationFailedLastTime" value="true" />
+    <option name="lastUpdateNotificationPluginVersion" value="2.1.2" />
+  </component>
+</application>
