@@ -2,7 +2,7 @@
   <component name="ApplicationConfig">
     <option name="instanceType" value="ENTERPRISE" />
     <option name="url" value="https://code.saf-service.sap.corp/" />
-    <option name="accessToken" value="" />
+    <option name="accessToken" value="afe9146622bcee25b46afd369a99f7753a529de7" />
     <option name="customRequestHeaders" value="" />
     <option name="defaultBranch" value="main" />
     <option name="remoteUrlReplacements" value="" />
