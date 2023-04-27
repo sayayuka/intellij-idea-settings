@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleDefaultProjectSettings">
+    <option name="distributionType" value="LOCAL" />
+    <option name="gradleHome" value="$USER_HOME$/Developer/gradle" />
+  </component>
+</application>
