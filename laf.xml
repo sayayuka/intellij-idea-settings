@@ -6,6 +6,7 @@
       <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="Dracula" scheme="_@user_Dracula" />
       <laf-to-scheme laf="Dracula Colorful" scheme="_@user_Default" />
+      <laf-to-scheme laf="Hiberbee Dark" scheme="_@user_Hiberbee Dark" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
     </lafs-to-previous-schemes>
   </component>
