@@ -3,7 +3,7 @@
     <property name="created">2020-03-23T14:53:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2023-07-31T10:36:20</property>
+    <property name="modified">2023-07-31T15:23:07</property>
     <property name="originalScheme">Dracula</property>
     <property name="partialSave">true</property>
     <property name="rainbow Default language">true</property>
@@ -20,6 +20,7 @@
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -500,6 +501,12 @@
       <value>
         <option name="FOREGROUND" value="ffb86c" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff79c6" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
