@@ -7,6 +7,7 @@
     <option name="defaultBranch" value="main" />
     <option name="remoteUrlReplacements" value="" />
     <option name="anonymousUserId" value="74bd5afc-2231-427a-a0b4-b0ebe3eb1750" />
+    <option name="isInstallEventLogged" value="true" />
     <option name="authenticationFailedLastTime" value="true" />
     <option name="lastUpdateNotificationPluginVersion" value="2.1.2" />
   </component>
