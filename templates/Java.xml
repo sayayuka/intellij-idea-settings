@@ -1,0 +1,14 @@
+<templateSet group="Java">
+  <template name="mk" value="$CLASS_NAME$ $VAR$ = Mockito.mock($CLASS_NAME$.class);" description="Mockito mock" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mkw" value="Mockito.when().thenReturn($END$);" description="Mockito when and then" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
