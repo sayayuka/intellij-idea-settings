@@ -11,4 +11,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="mks" value="try (MockedStatic&lt;$CLASS_NAME$&gt; utils = Mockito.mockStatic($CLASS_NAME$.class)) {&#10;    $END$&#10;}" description="Mockito mock static method" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
